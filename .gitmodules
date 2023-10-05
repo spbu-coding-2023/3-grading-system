@@ -46,3 +46,6 @@
 [submodule "3-TerrMen"]
 	path = 3-TerrMen
 	url = git@github.com:spbu-coding-2023/3-TerrMen.git
+[submodule "3-VersusXX"]
+	path = 3-VersusXX
+	url = git@github.com:spbu-coding-2023/3-VersusXX.git
