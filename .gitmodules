@@ -55,3 +55,6 @@
 [submodule "3-b08lsoai"]
 	path = 3-b08lsoai
 	url = git@github.com:spbu-coding-2023/3-b08lsoai.git
+[submodule "3-bikakuka"]
+	path = 3-bikakuka
+	url = git@github.com:spbu-coding-2023/3-bikakuka.git
