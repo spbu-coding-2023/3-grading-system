@@ -28,3 +28,6 @@
 [submodule "3-Kirilich"]
 	path = 3-Kirilich
 	url = git@github.com:spbu-coding-2023/3-Kirilich.git
+[submodule "3-Lyart123"]
+	path = 3-Lyart123
+	url = git@github.com:spbu-coding-2023/3-Lyart123.git
