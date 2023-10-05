@@ -22,3 +22,6 @@
 [submodule "3-Friend-zva"]
 	path = 3-Friend-zva
 	url = git@github.com:spbu-coding-2023/3-Friend-zva.git
+[submodule "3-IliaSuponeff"]
+	path = 3-IliaSuponeff
+	url = git@github.com:spbu-coding-2023/3-IliaSuponeff.git
