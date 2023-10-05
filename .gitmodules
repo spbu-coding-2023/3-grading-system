@@ -79,3 +79,6 @@
 [submodule "3-sofyak0zyreva"]
 	path = 3-sofyak0zyreva
 	url = git@github.com:spbu-coding-2023/3-sofyak0zyreva.git
+[submodule "3-starscream1337"]
+	path = 3-starscream1337
+	url = git@github.com:spbu-coding-2023/3-starscream1337.git
