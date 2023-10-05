@@ -58,3 +58,6 @@
 [submodule "3-bikakuka"]
 	path = 3-bikakuka
 	url = git@github.com:spbu-coding-2023/3-bikakuka.git
+[submodule "3-homka122"]
+	path = 3-homka122
+	url = git@github.com:spbu-coding-2023/3-homka122.git
