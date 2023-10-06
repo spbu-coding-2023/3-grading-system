@@ -7,6 +7,7 @@ on:
 jobs:
   grading-test:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     container:
       image: vladimirkutuev/cmocka:latest
       options: --user 1001
