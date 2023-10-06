@@ -85,3 +85,6 @@
 [submodule "3-suvorovrain"]
 	path = 3-suvorovrain
 	url = git@github.com:spbu-coding-2023/3-suvorovrain.git
+[submodule "3-DronShock"]
+	path = 3-DronShock
+	url = git@github.com:spbu-coding-2023/3-DronShock.git
