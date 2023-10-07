@@ -100,3 +100,6 @@
 [submodule "3-vicitori"]
 	path = 3-vicitori
 	url = git@github.com:spbu-coding-2023/3-vicitori.git
+[submodule "3-DARKpluz"]
+	path = 3-DARKpluz
+	url = git@github.com:spbu-coding-2023/3-DARKpluz.git
