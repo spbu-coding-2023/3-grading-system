@@ -121,3 +121,6 @@
 [submodule "3-RamProsad2"]
 	path = 3-RamProsad2
 	url = git@github.com:spbu-coding-2023/3-RamProsad2.git
+[submodule "3-f1i3g3"]
+	path = 3-f1i3g3
+	url = git@github.com:spbu-coding-2023/3-f1i3g3.git
