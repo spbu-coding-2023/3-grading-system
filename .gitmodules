@@ -136,3 +136,6 @@
 [submodule "3-vicheka-sk"]
 	path = 3-vicheka-sk
 	url = git@github.com:spbu-coding-2023/3-vicheka-sk.git
+[submodule "3-AeugeneA"]
+	path = 3-AeugeneA
+	url = git@github.com:spbu-coding-2023/3-AeugeneA.git
