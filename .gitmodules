@@ -148,3 +148,6 @@
 [submodule "3-V4k4"]
 	path = 3-V4k4
 	url = git@github.com:spbu-coding-2023/3-V4k4.git
+[submodule "3-far1yg"]
+	path = 3-far1yg
+	url = git@github.com:spbu-coding-2023/3-far1yg.git
