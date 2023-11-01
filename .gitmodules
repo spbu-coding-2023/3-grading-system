@@ -154,3 +154,6 @@
 [submodule "3-D31IRIUM"]
 	path = 3-D31IRIUM
 	url = git@github.com:spbu-coding-2023/3-D31IRIUM.git
+[submodule "3-Sibiri4ok"]
+	path = 3-Sibiri4ok
+	url = git@github.com:spbu-coding-2023/3-Sibiri4ok.git
