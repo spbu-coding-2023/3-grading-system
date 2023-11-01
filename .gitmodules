@@ -151,3 +151,6 @@
 [submodule "3-far1yg"]
 	path = 3-far1yg
 	url = git@github.com:spbu-coding-2023/3-far1yg.git
+[submodule "3-D31IRIUM"]
+	path = 3-D31IRIUM
+	url = git@github.com:spbu-coding-2023/3-D31IRIUM.git
