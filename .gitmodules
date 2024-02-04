@@ -163,3 +163,6 @@
 [submodule "3-Asif2040"]
 	path = 3-Asif2040
 	url = git@github.com:spbu-coding-2023/3-Asif2040.git
+[submodule "3-MaksimQR"]
+	path = 3-MaksimQR
+	url = git@github.com:spbu-coding-2023/3-MaksimQR.git
