@@ -166,3 +166,6 @@
 [submodule "3-MaksimQR"]
 	path = 3-MaksimQR
 	url = git@github.com:spbu-coding-2023/3-MaksimQR.git
+[submodule "3-CrocodielRussian"]
+	path = 3-CrocodielRussian
+	url = git@github.com:spbu-coding-2023/3-CrocodielRussian.git
