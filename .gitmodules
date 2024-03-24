@@ -169,3 +169,6 @@
 [submodule "3-CrocodielRussian"]
 	path = 3-CrocodielRussian
 	url = git@github.com:spbu-coding-2023/3-CrocodielRussian.git
+[submodule "3-ivanovmapths"]
+	path = 3-ivanovmapths
+	url = git@github.com:spbu-coding-2023/3-ivanovmapths.git
